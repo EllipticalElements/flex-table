@@ -1,12 +1,12 @@
 {
-  "name": "flex-grid",
+  "name": "flex-table",
   "description": "datagrid web component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EllipticalElements/flex-grid.git"
+    "url": "https://github.com/EllipticalElements/flex-table.git"
   },
   "devDependencies": {
     "gulp": "^3.8.7",

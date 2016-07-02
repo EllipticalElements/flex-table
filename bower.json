@@ -1,6 +1,6 @@
 {
-  "name": "flex-grid",
-  "version": "1.0.0",
+  "name": "flex-table",
+  "version": "1.0.1",
   "authors": [
     "S. Francis"
   ],
@@ -13,7 +13,7 @@
   ],
   "main": "flex-grid.html",
   "license": "MIT",
-  "homepage": "https://github.com/EllipticalElements/flex-grid",
+  "homepage": "https://github.com/EllipticalElements/flex-table",
   "ignore": [
     "/.*",
     "/test/",
